@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "file:///C:/Users/cosmin/Downloads/GYA%20-%20Pe%20limba%20noastra%20_%20Official%20Video.mp3, // Music streaming URL
+        musicUrl: "https://www.youtube.com/watch?v=oIxMv-et-vk&list=RDoIxMv-et-vk&start_radio=1, // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
